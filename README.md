@@ -13,10 +13,25 @@ Development of a tool for the comparative analysis of various classical color qu
 
 
 ## Resumen
+Este trabajo compara diferentes técnicas clásicas de cuantificación de color en imágenes,
+estandarizando sus implementaciones para evaluar su rendimiento. Se utilizan 100 imágenes 
+y se aplican varios índices de calidad (MSE, PSNR, SSIM, entre otros) para analizar los 
+resultados. La investigación destaca la importancia de seleccionar el método adecuado según 
+los recursos computacionales disponibles. Se emplean herramientas como SPSS para el análisis
+estadístico, proporcionando una evaluación detallada del impacto de cada técnica.
 
+## Abstract
+This work compares different classical color quantization techniques in images, standardizing 
+their implementations to assess performance. A dataset of 100 images is used, applying multiple 
+quality indices (MSE, PSNR, SSIM, among others) to analyze the results. The study emphasizes 
+the importance of selecting the appropriate method based on available computational resources. 
+Tools like SPSS are used for statistical analysis, providing a detailed evaluation of the impact 
+of each technique.
 
     
 ## Lenguajes usados
-- C  ![imagen](https://github.com/user-attachments/assets/bfbfdb1e-3c7f-483b-a2c6-3776d5782e53)
+- C
 
-- 
+- Python
+
+- Shell
