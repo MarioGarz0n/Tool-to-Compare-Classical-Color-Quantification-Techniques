@@ -29,7 +29,7 @@ Tools like SPSS are used for statistical analysis, providing a detailed evaluati
 of each technique.
 
     
-## Lenguajes usados
+## Lenguajes usados / Tech stack
 - C
 
 - Python
